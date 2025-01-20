@@ -3,6 +3,6 @@ import react from '@vitejs/plugin-react'
 
 // https://vite.dev/config/
 export default defineConfig({
-  base: '/ra16-homeworks-components-store-func/',
+  base: '/ra16-homeworks-events-state-filter/',
   plugins: [react()],
 })
